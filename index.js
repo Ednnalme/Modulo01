@@ -2,7 +2,7 @@ const express = require('express');
 console.log(express);
 const server = express();
 server.use(express.json());
-//curso bootcamp
+//curso bootcamp***
 //Query params = ?teste=1
 //Route params = /users/1
 //Request body = {"name": "Diego","email": "diego@rocketseat.com.br"}
